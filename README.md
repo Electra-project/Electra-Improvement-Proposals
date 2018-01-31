@@ -4,7 +4,7 @@
 
 Because some of our choices can't be resolved by simply following BIPs, either because they may not be adapted to some of our cases, or because they don't answer one of our particular issue. The goal of these EIPs is not to write 20 pages RFCs as [BIPs](https://github.com/bitcoin/bips) often are ‒ unless it's really necessary, but to keep a clean and inclusive process to tackle our common issues as the number of applications and language adaptations grow.
 
-Secondarily it also allow all contributing developers to discuss and share a common documentation on how certain matters should be handled.
+Secondarily it also allows all contributing developers to discuss and share a common documentation on how certain matters should be handled.
 
 ## How proposals should be started ?
 
