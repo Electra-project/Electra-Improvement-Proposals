@@ -15,9 +15,9 @@ Secondarily it also allows all contributing developers to discuss and share a co
   - Why is this an issue ?
   - What solution do you propose ?
 
-## What are the states ?
+## What are the stages ?
 
-A proposal state can be one of:
+A proposal stage can be one of:
 
 - DRAFT = Somebody submitted a proposal, and we are discussing it.
 - PROPOSED = We found a consensus, and need to write a clean specification.
