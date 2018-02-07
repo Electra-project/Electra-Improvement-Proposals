@@ -21,5 +21,5 @@ A proposal state can be one of:
 
 - DRAFT = Somebody submitted a proposal, and we are discussing it.
 - PROPOSED = We found a consensus, and need to write a clean specification.
-- REJECTED = Either we didn't find a consensus, or this proposal didn't match the need of adding a new EIP.
+- REJECTED = Either we didn't find a consensus, or this proposal didn't require the creation of a new EIP to be solved.
 - FINAL = We accepted the "cleaned" specification. This EIP has to be integrated in the concerned repositories.
