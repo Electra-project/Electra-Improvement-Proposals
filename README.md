@@ -9,7 +9,7 @@ Secondarily it also allows all contributing developers to discuss and share a co
 ## How proposals should be started ?
 
 1. [Open a new issue on this repository](https://github.com/Electra-project/Electra-Improvement-Proposals/issues)
-2. The issue title should be `[EIP-XXXX] [DRAFT]`
+2. The issue title should be `[EIP-XXXX] [DRAFT] A short descriptive title`
 3. The issue content should be able to answer these 3 questions:
   - What does it concern ?
   - Why is this an issue ?
