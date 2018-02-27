@@ -27,5 +27,5 @@ A proposal stage can be one of:
 ## List of final proposals
 
 | Date    | Reference | Subject |
-|---------|-----------|---------|
+| :------ | :-------- | :------ |
 |27/2/2018| EIP-0002  | Wallet Exchange Format |
