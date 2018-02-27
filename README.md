@@ -23,3 +23,9 @@ A proposal stage can be one of:
 - PROPOSED = We found a consensus, and need to write a clean specification.
 - REJECTED = Either we didn't find a consensus, or this proposal didn't require the creation of a new EIP to be solved.
 - FINAL = We accepted the "cleaned" specification. This EIP has to be integrated in the concerned repositories.
+
+## List of final proposals
+
+| Date    | Reference | Subject |
+|---------|-----------|---------|
+|27/2/2018| EIP-0002  | Wallet Exchange Format |
